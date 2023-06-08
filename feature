@@ -1,1 +1,1 @@
-feature2new
+feature conflict resolved
